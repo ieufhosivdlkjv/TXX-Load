@@ -1,7 +1,7 @@
 --[[
 1xtc = xtc
 1rxp = rxpe
-owner = 👑 
+👑 = owner
 ]]
 
 return {
